@@ -4,4 +4,5 @@ Love.c is a program that's like donut.c; it animates a visualisation whose shape
 
 to run: `gcc -o love love.c -w && ./love`
 
-<img width="2047" height="897" alt="side-by-side" src="https://github.com/user-attachments/assets/8f5d4cad-6922-425e-915d-7ce22a9a144d" />
+<img width="2046" height="900" alt="side-by-side-2" src="https://github.com/user-attachments/assets/a1fb9847-8b59-479b-81bd-1f9a08db3c6b" />
+
